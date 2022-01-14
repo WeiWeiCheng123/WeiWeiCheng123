@@ -1,5 +1,5 @@
 - 👋 Hi, I’m WeiHsin Cheng
-- 👀 I’m interested in Machine Learning, Web Backend, Coding, Data Science.
+- 👀 I’m interested in Machine Learning, Web Backend, Coding, and Data Science.
 - 🌱 I’m currently studying master in National Taiwan University of Science and Technology.
 - 📫 Contact me:
       
