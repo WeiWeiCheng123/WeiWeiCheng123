@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WeiHsin Cheng
 - 👀 I’m interested in Machine Learning, Web Backend, Coding, and Data Science.
-- 🌱 I’m currently studying master in National Taiwan University of Science and Technology.
+- 🌱 I'm pursuing a master's degree at National Taiwan University of Science and Technology.
 - 📫 Contact me:
       
       Email: wei4105@gmail.com
